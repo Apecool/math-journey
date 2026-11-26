@@ -1,0 +1,16 @@
+*
+!README.md
+!.gitignore
+!reading/
+!formal/
+!notes/
+
+!reading/**
+!formal/**
+!notes/**
+
+_meta/
+
+.DS_Store
+*.swp
+*.tmp
